@@ -1,6 +1,6 @@
 # Taller-final-de-Java
 
-**** Se usa como sepárador decimal la coma (,) ****
+**** Se usa como separador decimal la coma (,) ****
 
 Realizar una calculadora en Java a nivel de programa de consola, donde deberá cumplir con los siguientes ítems:
 
